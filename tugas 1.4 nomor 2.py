@@ -88,7 +88,7 @@ if __name__ == "__main__":
     dll.append("24091397010", "Zaryan")
     dll.prepend("2409137011", "Alice")
     dll.prepend("24091397004", "Haruka")
-    dll.insert(1,"24091397038", "Wildan")
+    dll.insert(1,"24091397037", "Hildan")
     dll.display()
     print("\nSetelah Remove dan Pop:")
     dll.remove("24091397011.",)
